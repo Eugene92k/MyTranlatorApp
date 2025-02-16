@@ -1,4 +1,4 @@
-# MyTranlatorApp
+# Tranlator App
 
 Приложение построено с использованием архитектуры MVVM
 Работает на основе открытого Rapid Api
